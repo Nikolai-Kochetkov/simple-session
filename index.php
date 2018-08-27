@@ -57,6 +57,7 @@ if(isset($_POST['nName']) && isset($_POST['nPswd'])){
     }
 }
 ?>
+<!doctype html>
 <html>
 <head>
     <meta charset="utf-8">
