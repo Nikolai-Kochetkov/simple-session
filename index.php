@@ -4,8 +4,6 @@ if(isset($_POST['killUser'])){
         unset($_SESSION['u']); //Exit from session
     }
 }
-?>
-<?php
 //Connect to database
 require_once("connect.php");
 //Authorization
